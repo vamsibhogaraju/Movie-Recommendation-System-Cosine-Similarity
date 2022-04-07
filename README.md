@@ -1,5 +1,8 @@
 # Movie-Recommender-System using Cosine Similarity
 
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
 ## Content Based Recommender System with Heroku Deployment
 One popular technique of recommendation/recommender systems is content-based filtering. Content here refers to the content or attributes of the movies you like. So, the idea in content-based filtering is to tag products using certain keywords, understand what the user likes, look up those keywords in the database and recommend different movies with the same attributes.
